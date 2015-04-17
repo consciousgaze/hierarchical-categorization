@@ -1,0 +1,42 @@
+http://i.stanford.edu/~adityaj/cs229_fall2014_dataset.html
+Notes:
+	some product has no browse node
+Data set:
+	Top Hierarchy:
+		Appliances
+		ArtsAndCrafts
+		Automotive
+		Baby
+		Beauty
+		Books
+		Music
+		Collectibles
+		Movies & TV
+		Electronics
+		Grocery
+		HealthPersonalCare
+		Tools
+		KindleStore
+		Kitchen
+		LawnAndGarden
+		Magazines
+		Everything Else
+		MobileApps
+		MusicalInstruments
+		OfficeProducts
+		Software
+		SportingGoods
+		Toys
+		VideoGames
+
+Done:
+
+TODO:
+1. prune data. Only Work on Appliances Products # Done
+2. check whether the missing categories were in product category # yes. they should be removed.
+3. the amazon category hierarchy is complete wrong. Rebuilt it! # Done
+4. reimplement previous work # Done
+5. build new evaluation metrics # Done
+6. use -node as the leaf nodes. So that a classification can stop anywhere # Done
+7. use categories of accessories and similar products to represent a product # Done
+8. gather data that have no similar products and PERs.

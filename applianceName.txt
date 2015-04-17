@@ -1,0 +1,308 @@
+3737601	Fans
+914434	Thermal Carafes
+2232356011	Handles
+3741191	Cooktop Parts & Accessories
+3304320011	Floor Fans
+289917	Bread Machines
+3741201	Dishwasher Parts & Accessories
+2232405011	Knobs
+3737621	Pedestal Fans
+289867	Knife Sharpeners
+2232411011	Handles
+3737411	Charcoal Air Purifiers
+2232426011	Power Cords
+3743651	Pads
+3737631	Table Fans
+12955681	Filters
+2232383011	Filters
+3741221	Oven Parts & Accessories
+8614937011	Cake Pop & Mini Cake Makers
+3737521	Absorption Sleeves
+2232340011	Power Cords
+3741231	Range Parts & Accessories
+2232339011	Plug Receptacles
+2232425011	Knobs
+13397491	Washers
+3741241	Refrigerator Parts & Accessories
+695496011	Canister Bags
+3117950011	Iced Tea Machines
+2232365011	Doors
+13841471	Automatic Turnoff Irons
+2399955011	Warming Drawers
+2232336011	Dryer Parts & Accessories
+2232420011	Filters
+3737671	Air Conditioners
+3303860011	Steam Cleaners & Accessories
+2232424011	Trash Compactor Parts & Accessories
+3741261	Cooktops
+2232362011	Wash Arms
+3737681	Replacement Purifiers
+9647655011	Vacuum Replacement Batteries
+2232417011	Water Conditioners
+2232402011	Range Hood Parts & Accessories
+3115627011	Coffee Machine Replacement Parts
+695500011	Handheld Bags
+3741281	Built-In Dishwashers
+241127011	Tower Fans
+3737701	Slider Casement
+2232414011	Power Cords
+3117948011	Electric Coffee Percolators
+3737711	Wall
+3737431	ULPA Air Purifiers
+404433011	Ceiling Fans
+678541011	Steamers
+289913	Small Appliances
+289914	Blenders
+2232358011	Panels
+289916	Hand Blenders
+13838461	Electric Griddles
+289918	Deep Fryers
+3741311	Specialty Dishwashers
+289920	Food Processors
+7031379011	Whole House Humidifiers
+3117947011	Personal Size Blenders
+289924	Ice Cream Machines
+289925	Contact Grills
+289926	Juicers
+2232353011	Baskets
+2232343011	Washer Parts & Accessories
+289929	Mixers
+2232400011	Power Cords
+289932	Stand Mixers
+289933	Ovens & Toasters
+289934	Convection Ovens
+289935	Microwave Ovens
+289936	Rotisseries & Roasters
+13838481	Electric Skillets
+289938	Toasters
+3741331	Freezers
+289940	Slow Cookers
+289941	Specialty Appliances
+289942	Waffle Irons
+3737751	Single-Room
+510106	Vacuums & Floor Care
+13838491	Electric Woks
+510108	Canister Vacuums
+3741341	Chest Freezers
+3117955011	Citrus Juicers
+14162591	Reusable Filters
+3115626011	Coffee & Espresso Machine Cleaning Products
+3737761	Energy Star Qualified
+510114	Handheld Vacuums
+2686378011	Beer Keg Refrigerators
+2232412011	Ice Makers
+510118	Floor Polishers
+3741351	Upright Freezers
+510120	Bags
+14162601	Disposable Filters
+3741661	Bagel Slicers
+6574820011	Steam Mop Accessories
+2474054011	Single-Serve Brewers
+510128	Vacuum Accessories
+3741361	Refrigerators
+14162611	Permanent Filters
+3743571	Carpet Cleaners, Sweepers & Accessories
+5486414011	Downrod Couplers
+2232344011	Clamps
+1090752	Dehydrators
+1090754	Egg Cookers
+7223587011	Masticating Juicers
+2232399011	Plug Receptacles
+1090758	Electric Slicers
+14162631	Steam Espresso Machines
+1090760	Food Grinders & Mills
+1090762	Pizzelle Makers
+2686328011	Beverage Refrigerators
+1090764	Popcorn Poppers
+3741611	Over-the-Range Microwave Ovens
+1090766	Sandwich Makers & Panini Presses
+1090768	Vacuum Sealers
+14167251	Coffeemaker Pots
+5486416011	Wall Controls
+1193678	Portable
+3737851	Ironing Accessories
+3737721	Window
+297927011	Chocolate Fountains
+2232354011	Door Springs
+3743521	Vacuums
+2232401011	Trim Kits
+3737551	Replacement Filters
+2232338011	Lint Screens
+2232422011	Motors
+14162661	Semi-Automatic Espresso Machines
+5486413011	Mount Adapters
+3737831	Travel Garment Steamers
+2232393011	Exhaust Fans
+3741271	Dishwashers
+2232396011	Knobs
+3741421	Drop-In Ranges
+2232370011	Shelves
+3736701	Ceiling Fan Light Kits
+510192	HEPA Air Purifiers
+3737841	Ironing Sets
+3242820011	Tampers
+2232397011	Oven Racks
+510196	Air Ionizers
+2232335011	Fasteners
+2232419011	Fans
+3226849011	Garbage Disposal Parts
+3303862011	Handheld Steamers
+7956269011	Soda Maker Parts & Accessories
+695501011	Handheld Filters
+3741441	Range Hoods
+495362	Ceiling Fans & Accessories
+2232404011	Filters
+495364	Accessories
+3737861	Garment Steamer Accessories
+2232416011	Trays
+2232361011	Trim Kits
+3741451	Trash Compactors
+14042381	Milk Frothers
+2232387011	Backguards
+3737871	Ironing Board Covers
+267554011	Air Purifiers
+2232347011	Drain Pumps
+7223586011	Centrifugal Juicers
+3737561	Replacement Wicks
+3737881	Trouser Pressers
+2232413011	Motors
+2232394011	Grills
+7956268011	Soda Makers
+3743621	Belts
+510240	Irons, Steamers & Accessories
+14042401	Coffee Filters
+510242	Irons
+8614943011	Cupcake Makers
+510246	Ironing Boards
+678540011	Rice Cookers
+510248	Garment Steamers
+3741481	Wall Ovens
+2632820011	Appliance Services
+2232410011	Grills
+14167261	Coffeemaker Pot Lids
+289915	Countertop Blenders
+7031378011	Single Room Humidifiers
+3741491	Combination Microwave & Wall Ovens
+2232423011	Power Cords
+14163731	Espresso Machine & Coffeemaker Combos
+3737401	Parts & Accessories
+2232350011	Motors
+5486427011	Pull Chain Ornaments
+3741501	Double Wall Ovens
+3204225011	Mixer Parts & Accessories
+2232371011	Trays
+3741511	Single Wall Ovens
+678542011	Compact Refrigerators
+3242817011	Milk Frothing Pitchers
+2232349011	Hoses
+2232392011	Drip Pans
+2232351011	Power Cords
+3737421	Electrostatic Air Purifiers
+3117954011	Electric Pressure Cookers
+3737741	Multiroom
+3741521	Wine Cellars
+8614941011	Mini Donut Makers
+510094	Carpet Sweepers
+695498011	Carpet Cleaner Accessories
+3741411	Ranges
+2399946011	Slide-In Ranges
+3737541	Replacement Belts
+3741531	Small Wine Cellars
+2232346011	Doors
+2054338011	Remote Controls
+3117951011	Hot Pots
+2232391011	Burners
+2242350011	Appliance Warranties
+3741541	Freestanding Wine Cellars
+267555011	Humidifiers
+289937	Toaster Ovens
+3115628011	Espresso Machine Replacement Parts
+3737451	Travel-Size Air Purifiers
+16012141	Yogurt Makers
+3741551	Built-In Wine Cellars
+3115648011	Coffee & Espresso Machine Parts & Accessories
+2232369011	Power Cords
+2232398011	Paneling
+13397481	Dryers
+3741561	Furniture-Style Wine Cellars
+2232390011	Burner Rings
+2619525011	Appliances
+3741651	Speed-Cooking Microwave Ovens
+2232384011	Trim Kits
+3204211011	Bread Machine Parts & Accessories
+2232355011	Doors
+3741571	Wine Rooms
+3737571	Humidity Meters
+5486415011	Fan Replacement Blades
+3737031	Beverage Warmers
+13755271	All-in-One Combination Washers & Dryers
+2232395011	Heating Elements
+695497011	Canister Filters
+2232368011	Ice Maker Parts
+3741581	Wine Cellar Cooling Systems
+2232366011	Drawers
+3743631	Covers
+2232337011	Doors
+2232389011	Built-in Timers
+2232421011	Knobs
+3741591	Small Appliance Sets
+3303861011	Steam Mops
+3743641	Lamp Bulbs
+14162671	Super-Automatic Espresso Machines
+3743741	Attachments & Brushes
+2232363011	Food Waste Disposer Parts & Accessories
+2232342011	Vents
+2232367011	Handles
+3737511	Humidifier Parts & Accessories
+3226848011	Garbage Disposals
+2232388011	Built-in Thermometers
+8614939011	Cake Pop Makers
+2383576011	Washers & Dryers
+3741431	Freestanding Ranges
+3741251	Wine Cellar Parts & Accessories
+2232360011	Racks
+2232345011	Detergent Trays
+289931	Hand Mixers
+3741621	Compact Microwave Ovens
+2232359011	Power Cords
+3743561	Robotic Vacuums
+2232415011	Shelves
+3737531	Chemicals
+695502011	Upright Bags
+3741631	Countertop Microwave Ovens
+2399957011	Stacked Washer & Dryer Units
+510112	Stick Vacuums & Electric Brooms
+2399939011	Ice Makers
+2232357011	Hoses
+2232341011	Shoe Rack Inserts
+13838451	Countertop Burners
+3741641	Microhood Microwave Ovens
+2232408011	Bins
+289742	Coffee, Tea & Espresso Appliances
+289743	Coffee Machine Accessories
+289745	Coffee Machines
+2232348011	Floor Trays
+695503011	Upright Filters
+289748	Espresso Machines
+289753	Electric Kettles
+3117959011	Shaved Ice Machines
+2232409011	Doors
+3743711	Hoses
+3741211	Freezer Parts & Accessories
+680343011	Garbage Disposals
+3741671	Crepe Makers
+3741161	Water Filters
+1261207011	Espresso Machine Accessories
+5486426011	Pull Chains
+3204226011	Microwave Oven Parts & Accessories
+3741181	Parts & Accessories
+3204224011	Food Processor Parts & Accessories
+3741681	Quesadilla & Tortilla Makers
+1063922	Carpet Cleaners
+2232385011	Turntables
+510110	Upright Vacuums
+602618	Travel Irons
+2232406011	Screens
+2232403011	Blowers
+2054340011	Downrods
+3117953011	Electric Wine Bottle Openers
